@@ -1,3 +1,3 @@
 # ParsonsCode2
-An experimental git education site
-<b>Can I put HTML in here?</b>
+An experimental git education site<p>
+<b>This is a template.... and the page includes html</b>
